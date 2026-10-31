@@ -1,0 +1,4 @@
+Image Size,Confidence,Frames,Pedestrian Detections,Frames With Detections,Tracked Pedestrian Observations,Frames With Tracks,Distinct Pedestrian Track IDs,Combined Detection and Tracking FPS
+640,0.05,100,41,35,0,0,0,19.64
+960,0.05,100,119,68,0,0,0,19.68
+1280,0.05,100,207,84,0,0,0,16.86

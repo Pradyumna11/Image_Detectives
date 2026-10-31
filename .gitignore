@@ -1,0 +1,36 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Large datasets
+datasets/
+dataset/
+videos/visdrone_mot/
+VisDrone2019-*/
+
+# YOLO training outputs and weights
+runs/
+*.pt
+*.pth
+
+# Generated tracking data
+tracking_results/
+
+# Large video files
+videos/*.mp4
+*.avi
+*.mov
+
+# Credentials
+.env
+.env.*
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store

@@ -1,0 +1,2 @@
+Model,Epochs,Precision (%),Recall (%),mAP50 (%),mAP50-95 (%)
+YOLOv8n,30,42.1,30.3,29.1,15.9

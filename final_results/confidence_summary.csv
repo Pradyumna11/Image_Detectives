@@ -1,0 +1,5 @@
+Confidence,Frames Analyzed,Pedestrian Detections,Frames With Pedestrians,All-Class Detections
+0.05,100,47,37,1095
+0.1,100,6,6,526
+0.2,100,0,0,295
+0.3,100,0,0,200
