@@ -273,9 +273,8 @@ Image_Detectives/
 
 ## Author
 
-**Sai Pradyumna Reddy Badugula**
+**Pradyumna**
 
-Master's Project — Data Science
 
 ## Acknowledgments
 
